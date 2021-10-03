@@ -1,1 +1,2 @@
-# reimagined-eureka
+# Blog-App
+React native blog app
